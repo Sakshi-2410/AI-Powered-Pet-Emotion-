@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Pet-AI Emotion Translator",
+  "description": "An AI-powered pet emotion detection system that analyzes pet emotions through simulated sound analysis and movement patterns. The application uses a playful, pet-friendly interface to display real-time emotion analysis, manage multiple pets, and view historical analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
